@@ -133,4 +133,5 @@ pip install torch torchvision transformers scikit-learn scipy matplotlib seaborn
 
 ## Surpervisor and Authors
 Supervisor - Professor Subhashis Banerjee
+
 Authors - Jaee Ponde & Roshni Agarwal
